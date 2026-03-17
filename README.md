@@ -75,3 +75,5 @@ Contact links redirect to email or social profiles.
 Sehrish Maqbool.BSIT 3rd year student at University of Chakwal. Persoanl portfolio project of Task 1 from syntecxhub internship. Developed Feb 2026
 
 Personal Portfolio Project – Showcasing web development skills and projects.
+
+# CodeAlpha_Portfolio
