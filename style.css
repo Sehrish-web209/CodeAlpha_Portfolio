@@ -228,3 +228,30 @@ body {
   .hero-content h1 { font-size: 1.8rem; }
   .hero-content p { font-size: 0.95rem; }
 }
+
+/* ================= NAVBAR & HERO MOBILE FIX ================= */
+@media (max-width: 768px) {
+  /* Navbar mobile-friendly */
+  .navbar {
+    position: relative; /* fixed hata do, relative ho jaye */
+    padding: 10px 0;
+  }
+
+  .navbar ul {
+    flex-direction: column; /* links vertical ho jaayen */
+    align-items: center;
+    gap: 8px;
+  }
+
+  .navbar li {
+    margin: 5px 0;
+  }
+
+  /* Hero section padding adjust */
+  .hero {
+    padding: 80px 20px 50px; /* top padding kam ki, hero fully visible rahe */
+  }
+
+  .hero-content h1 { font-size: 2rem; }
+  .hero-content p { font-size: 1rem; }
+}
