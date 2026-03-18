@@ -44,23 +44,11 @@ A personal **portfolio website** built to showcase my projects, skills, and cont
 
 portfolio/ ├── index.html           # Main HTML file ├── css/ │   └── style.css        # Styling for all sections ├── js/ │   └── script.js        # Optional interactive JS ├── images/ │   └── profile-pic.jpg  # Profile picture └── README.md            # Project documentation
 
-## 🚀 How to Run Locally
+## 🚀 How to Run 
 
-1. **Clone the repository:**
+https://sehrish-web209.github.io/CodeAlpha_Portfolio/
 
-```bash
-
-git clone https://github.com/Sehrish-web209/portfolio.git
-
-Navigate to the project folder:
-
-Bash
-
-cd portfolio
-
-Open index.html in your browser.
-
-No server setup required – works directly on the browser.
+Click on it and the project will run.
 
 💡 Usage
 
@@ -72,8 +60,7 @@ Contact links redirect to email or social profiles.
 
 👨‍💻 Author
 
-Sehrish Maqbool.BSIT 3rd year student at University of Chakwal. Persoanl portfolio project of Task 1 from syntecxhub internship. Developed Feb 2026
+Sehrish Maqbool.BSIT 3rd year student at University of Chakwal. Persoanl portfolio project as part of my CodeAlpha internship. 
 
 Personal Portfolio Project – Showcasing web development skills and projects.
 
-# CodeAlpha_Portfolio
